@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o 3255COWORKING"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Com mais de 10 anos de experiência na gestão de espaços de coworking, Rogério é um especialista dedicado a transformar o ambiente de trabalho. Ele acredita que um coworking deve ser mais do que um local para trabalhar; deve ser um espaço que promove colaboração e criatividade."
+  },
+  "content": "O 3255COWORKING é mais que apenas um espaço para trabalhar; é uma comunidade vibrante onde inovação e espírito empreendedor se encontram. Nosso foco está em oferecer soluções flexíveis que atendam as necessidades dos nossos coworkers, sempre com um toque pessoal.",
+  "mission": "Nossa missão é criar um ambiente colaborativo e inovador que proporcione as melhores ferramentas e oportunidades para o sucesso dos nossos membros.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

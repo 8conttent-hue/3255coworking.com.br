@@ -1,0 +1,53 @@
+{
+  "name": "3255COWORKING",
+  "slug": "3255coworking.com.br",
+  "description": "Olá! Me chamo Rogério Rodrigues, sou o criador do website 3255coworking.com.br, criei esse portal no intuito de compartilhar minhas experiências que adquiri ao longo dos anos trabalhando na área de coworking. Tenho mais de 10 anos de experiência na gestão e operação de espaços para coworking, sempre buscando inovar e trazer as melhores soluções para meus clientes.",
+  "url": "https://3255coworking.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "Ola Me chamo Rogerio Rodrigues sou o criador do website 3255coworking com",
+  "email": "contato@3255coworking.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-G",
+    "features": "Features-D",
+    "about": "About-E",
+    "posts": "Posts-D",
+    "footer": "Footer-I",
+    "sobre": "Sobre-B",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

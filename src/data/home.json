@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "3255COWORKING — Bem-vindo ao 3255COWORKING",
+    "description": "Seu espaço para inovação e networking"
+  },
+  "hero": {
+    "title": "Bem-vindo ao 3255COWORKING",
+    "subtitle": "Seu espaço para inovação e networking",
+    "btnText": "Descubra Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossas Vantagens",
+    "items": [
+      {
+        "icon": "🏢",
+        "title": "Espaços Modernos",
+        "desc": "Ambientes projetados para inspire sua criatividade e produtividade."
+      },
+      {
+        "icon": "🤝",
+        "title": "Networking",
+        "desc": "Conecte-se com outros profissionais e amplie sua rede de contatos."
+      },
+      {
+        "icon": "💡",
+        "title": "Inovação Contínua",
+        "desc": "Sempre trazemos as melhores soluções e inovações para nossos clientes."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Rogério Rodrigues",
+    "desc": "Com mais de 10 anos de experiência na gestão de espaços de coworking, Rogério é um especialista dedicado a transformar o ambiente de trabalho. Ele acredita que um coworking deve ser mais do que um local para trabalhar; deve ser um espaço que promove colaboração e criatividade.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "100+",
+        "label": "Clientes Satisfeitos"
+      },
+      {
+        "value": "50+",
+        "label": "Eventos Organizados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
